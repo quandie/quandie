@@ -1,1 +1,1 @@
-- yo, im quandie, lua coder beginner (3 months)
+- yo, im quandie, lua coder (4 months)
