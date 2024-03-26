@@ -1,4 +1,4 @@
-- yo, im quandie, lua coder (5 months)
+- yo, im quandie, lua coder (7 months)
 
 # active projects:
 - roblox nextbot possession
